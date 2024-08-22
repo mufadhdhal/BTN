@@ -1,0 +1,1431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="hitung" time="361.745" tests="10" failures="3" errors="0">
+   <testsuite name="hitung" tests="10" failures="3" errors="0" time="361.745" skipped="0" timestamp="22-08-2024T17:21:01" hostname="SOLUSINDO - DESKTOP-EPKK6HL" id="Test Suites/hitung">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053"/>
+         <property name="logFiles" value="C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322092071.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322095692.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322099179.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322127972.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322134156.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322137531.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322165444.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322169544.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322172816.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322201477.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322203852.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322208469.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322208673.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322235457.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322239696.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322242877.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322271380.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322274525.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322277887.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322278114.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322305792.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322308900.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322312510.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322341262.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322346674.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322349673.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322349880.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322376905.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322381140.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322384516.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322413324.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322417531.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322420768.png"/>
+         <property name="hostName" value="SOLUSINDO - DESKTOP-EPKK6HL"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+         <property name="browser" value="Chrome 127.0.0.0"/>
+         <property name="hostAddress" value="192.168.241.187"/>
+         <property name="sessionId" value="defaab3fefc2dc193f065cd80125539c"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/hitungProperti" time="38.896" classname="Test Cases/hitungProperti" status="PASSED">
+         <system-out><![CDATA[22-08-2024T17:21:01 - [TEST_CASE][PASSED] - Test Cases/hitungProperti: Test Cases/hitungProperti
+
+22-08-2024T17:21:02 - [TEST_STEP][PASSED] - openBrowser("https://www.btnproperti.co.id/tools/hitung-harga-properti"): Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:21:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-08-2024T17:21:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-08-2024T17:21:09 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:21:09 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+22-08-2024T17:21:09 - [MESSAGE][PASSED] - Current window maximized
+
+22-08-2024T17:21:09 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/penghasilanTotal"), penghasilan): Text '10000000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:21:31 - [MESSAGE][PASSED] - Text '10000000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:21:31 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:21:33 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:21:33 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322092071.png]]
+
+22-08-2024T17:21:33 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/pengeluaran"), pengeluaran): Text '7500000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:21:35 - [MESSAGE][PASSED] - Text '7500000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:21:35 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:21:36 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:21:36 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322095692.png]]
+
+22-08-2024T17:21:36 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("hitungHarga/jangkaWaktu"), tahun, false): All options with value '2' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:21:37 - [MESSAGE][PASSED] - All options with value '2' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:21:37 - [TEST_STEP][PASSED] - value = getAttribute(findTestObject("hitungHarga/selectJangkaWaktu"), "tahun"): Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:21:37 - [MESSAGE][PASSED] - Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:21:37 - [TEST_STEP][PASSED] - bulanInt = Integer.valueOf(tahun): null
+
+22-08-2024T17:21:37 - [TEST_STEP][PASSED] - pengeluaranInt = Integer.valueOf(pengeluaran): null
+
+22-08-2024T17:21:37 - [TEST_STEP][PASSED] - penghasilanInt = Integer.valueOf(penghasilan): null
+
+22-08-2024T17:21:37 - [TEST_STEP][PASSED] - if (penghasilanInt <= pengeluaranInt): null
+
+22-08-2024T17:21:37 - [TEST_STEP][PASSED] - else: null
+
+22-08-2024T17:21:37 - [TEST_STEP][PASSED] - hitung = penghasilanInt - pengeluaranInt * bulanInt * 12 / 3: null
+
+22-08-2024T17:21:38 - [TEST_STEP][PASSED] - println(hitung): null
+
+22-08-2024T17:21:38 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("hitungHarga/pengeluaran"), 0): Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:21:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+22-08-2024T17:21:38 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:21:38 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("hitungHarga/buttonHitung")): Object 'Object Repository/hitungHarga/buttonHitung' is clickable
+
+22-08-2024T17:21:38 - [MESSAGE][PASSED] - Object 'Object Repository/hitungHarga/buttonHitung' is clickable
+
+22-08-2024T17:21:38 - [TEST_STEP][PASSED] - click(findTestObject("hitungHarga/buttonHitung")): Object: 'Object Repository/hitungHarga/buttonHitung' is clicked on
+
+22-08-2024T17:21:39 - [MESSAGE][PASSED] - Object: 'Object Repository/hitungHarga/buttonHitung' is clicked on
+
+22-08-2024T17:21:39 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:21:39 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:21:40 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322099179.png]]
+
+22-08-2024T17:21:40 - [TEST_STEP][PASSED] - harga = getText(findTestObject("hitungHarga/harga")): Text of object 'Object Repository/hitungHarga/harga' is: 'Rp 20.000.000'
+
+22-08-2024T17:21:40 - [MESSAGE][PASSED] - Text of object 'Object Repository/hitungHarga/harga' is: 'Rp 20.000.000'
+
+22-08-2024T17:21:40 - [TEST_STEP][PASSED] - harga = replace("Rp ", "").replace(".", ""): null
+
+22-08-2024T17:21:40 - [TEST_STEP][PASSED] - hargaInt = Integer.valueOf(harga): null
+
+22-08-2024T17:21:40 - [TEST_STEP][PASSED] - println(hargaInt): null
+
+22-08-2024T17:21:40 - [TEST_STEP][PASSED] - assert hitung == hargaInt: null
+
+22-08-2024T17:21:40 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-08-2024T17:21:40 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/hitungProperti" time="38.594" classname="Test Cases/hitungProperti" status="PASSED">
+         <system-out><![CDATA[22-08-2024T17:21:40 - [TEST_CASE][PASSED] - Test Cases/hitungProperti: Test Cases/hitungProperti
+
+22-08-2024T17:21:40 - [TEST_STEP][PASSED] - openBrowser("https://www.btnproperti.co.id/tools/hitung-harga-properti"): Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:21:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-08-2024T17:21:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-08-2024T17:21:44 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:21:44 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+22-08-2024T17:21:44 - [MESSAGE][PASSED] - Current window maximized
+
+22-08-2024T17:21:44 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/penghasilanTotal"), penghasilan): Text '7500000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:22:07 - [MESSAGE][PASSED] - Text '7500000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:22:07 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:22:09 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:22:09 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322127972.png]]
+
+22-08-2024T17:22:09 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/pengeluaran"), pengeluaran): Text '5000000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:22:14 - [MESSAGE][PASSED] - Text '5000000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:22:14 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:22:15 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:22:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322134156.png]]
+
+22-08-2024T17:22:15 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("hitungHarga/jangkaWaktu"), tahun, false): All options with value '4' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:22:16 - [MESSAGE][PASSED] - All options with value '4' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:22:16 - [TEST_STEP][PASSED] - value = getAttribute(findTestObject("hitungHarga/selectJangkaWaktu"), "tahun"): Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:22:16 - [MESSAGE][PASSED] - Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:22:16 - [TEST_STEP][PASSED] - bulanInt = Integer.valueOf(tahun): null
+
+22-08-2024T17:22:16 - [TEST_STEP][PASSED] - pengeluaranInt = Integer.valueOf(pengeluaran): null
+
+22-08-2024T17:22:16 - [TEST_STEP][PASSED] - penghasilanInt = Integer.valueOf(penghasilan): null
+
+22-08-2024T17:22:16 - [TEST_STEP][PASSED] - if (penghasilanInt <= pengeluaranInt): null
+
+22-08-2024T17:22:16 - [TEST_STEP][PASSED] - else: null
+
+22-08-2024T17:22:16 - [TEST_STEP][PASSED] - hitung = penghasilanInt - pengeluaranInt * bulanInt * 12 / 3: null
+
+22-08-2024T17:22:16 - [TEST_STEP][PASSED] - println(hitung): null
+
+22-08-2024T17:22:16 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("hitungHarga/pengeluaran"), 0): Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:22:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+22-08-2024T17:22:16 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:22:16 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("hitungHarga/buttonHitung")): Object 'Object Repository/hitungHarga/buttonHitung' is clickable
+
+22-08-2024T17:22:17 - [MESSAGE][PASSED] - Object 'Object Repository/hitungHarga/buttonHitung' is clickable
+
+22-08-2024T17:22:17 - [TEST_STEP][PASSED] - click(findTestObject("hitungHarga/buttonHitung")): Object: 'Object Repository/hitungHarga/buttonHitung' is clicked on
+
+22-08-2024T17:22:17 - [MESSAGE][PASSED] - Object: 'Object Repository/hitungHarga/buttonHitung' is clicked on
+
+22-08-2024T17:22:17 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:22:18 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:22:18 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322137531.png]]
+
+22-08-2024T17:22:18 - [TEST_STEP][PASSED] - harga = getText(findTestObject("hitungHarga/harga")): Text of object 'Object Repository/hitungHarga/harga' is: 'Rp 40.000.000'
+
+22-08-2024T17:22:19 - [MESSAGE][PASSED] - Text of object 'Object Repository/hitungHarga/harga' is: 'Rp 40.000.000'
+
+22-08-2024T17:22:19 - [TEST_STEP][PASSED] - harga = replace("Rp ", "").replace(".", ""): null
+
+22-08-2024T17:22:19 - [TEST_STEP][PASSED] - hargaInt = Integer.valueOf(harga): null
+
+22-08-2024T17:22:19 - [TEST_STEP][PASSED] - println(hargaInt): null
+
+22-08-2024T17:22:19 - [TEST_STEP][PASSED] - assert hitung == hargaInt: null
+
+22-08-2024T17:22:19 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-08-2024T17:22:19 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/hitungProperti" time="35.246" classname="Test Cases/hitungProperti" status="PASSED">
+         <system-out><![CDATA[22-08-2024T17:22:19 - [TEST_CASE][PASSED] - Test Cases/hitungProperti: Test Cases/hitungProperti
+
+22-08-2024T17:22:19 - [TEST_STEP][PASSED] - openBrowser("https://www.btnproperti.co.id/tools/hitung-harga-properti"): Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:22:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-08-2024T17:22:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-08-2024T17:22:23 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:22:23 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+22-08-2024T17:22:23 - [MESSAGE][PASSED] - Current window maximized
+
+22-08-2024T17:22:23 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/penghasilanTotal"), penghasilan): Text '8000000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:22:45 - [MESSAGE][PASSED] - Text '8000000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:22:45 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:22:46 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:22:46 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322165444.png]]
+
+22-08-2024T17:22:46 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/pengeluaran"), pengeluaran): Text '5500000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:22:49 - [MESSAGE][PASSED] - Text '5500000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:22:49 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:22:50 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:22:50 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322169544.png]]
+
+22-08-2024T17:22:50 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("hitungHarga/jangkaWaktu"), tahun, false): All options with value '3' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:22:51 - [MESSAGE][PASSED] - All options with value '3' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:22:51 - [TEST_STEP][PASSED] - value = getAttribute(findTestObject("hitungHarga/selectJangkaWaktu"), "tahun"): Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:22:51 - [MESSAGE][PASSED] - Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:22:51 - [TEST_STEP][PASSED] - bulanInt = Integer.valueOf(tahun): null
+
+22-08-2024T17:22:51 - [TEST_STEP][PASSED] - pengeluaranInt = Integer.valueOf(pengeluaran): null
+
+22-08-2024T17:22:51 - [TEST_STEP][PASSED] - penghasilanInt = Integer.valueOf(penghasilan): null
+
+22-08-2024T17:22:51 - [TEST_STEP][PASSED] - if (penghasilanInt <= pengeluaranInt): null
+
+22-08-2024T17:22:51 - [TEST_STEP][PASSED] - else: null
+
+22-08-2024T17:22:51 - [TEST_STEP][PASSED] - hitung = penghasilanInt - pengeluaranInt * bulanInt * 12 / 3: null
+
+22-08-2024T17:22:51 - [TEST_STEP][PASSED] - println(hitung): null
+
+22-08-2024T17:22:51 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("hitungHarga/pengeluaran"), 0): Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:22:51 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+22-08-2024T17:22:52 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:22:52 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("hitungHarga/buttonHitung")): Object 'Object Repository/hitungHarga/buttonHitung' is clickable
+
+22-08-2024T17:22:52 - [MESSAGE][PASSED] - Object 'Object Repository/hitungHarga/buttonHitung' is clickable
+
+22-08-2024T17:22:52 - [TEST_STEP][PASSED] - click(findTestObject("hitungHarga/buttonHitung")): Object: 'Object Repository/hitungHarga/buttonHitung' is clicked on
+
+22-08-2024T17:22:52 - [MESSAGE][PASSED] - Object: 'Object Repository/hitungHarga/buttonHitung' is clicked on
+
+22-08-2024T17:22:52 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:22:53 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:22:54 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322172816.png]]
+
+22-08-2024T17:22:54 - [TEST_STEP][PASSED] - harga = getText(findTestObject("hitungHarga/harga")): Text of object 'Object Repository/hitungHarga/harga' is: 'Rp 30.000.000'
+
+22-08-2024T17:22:54 - [MESSAGE][PASSED] - Text of object 'Object Repository/hitungHarga/harga' is: 'Rp 30.000.000'
+
+22-08-2024T17:22:54 - [TEST_STEP][PASSED] - harga = replace("Rp ", "").replace(".", ""): null
+
+22-08-2024T17:22:54 - [TEST_STEP][PASSED] - hargaInt = Integer.valueOf(harga): null
+
+22-08-2024T17:22:54 - [TEST_STEP][PASSED] - println(hargaInt): null
+
+22-08-2024T17:22:54 - [TEST_STEP][PASSED] - assert hitung == hargaInt: null
+
+22-08-2024T17:22:54 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-08-2024T17:22:54 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/hitungProperti" time="33.987" classname="Test Cases/hitungProperti" status="FAILED">
+         <failure type="FAILED" message="Test Cases/hitungProperti FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)&#xa;	at hitungProperti.run(hitungProperti:53)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)&#xa;	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xa;	... 20 more&#xa;"/>
+         <system-out><![CDATA[22-08-2024T17:22:54 - [TEST_CASE][FAILED] - Test Cases/hitungProperti: Test Cases/hitungProperti FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)
+	at hitungProperti.run(hitungProperti:53)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more
+
+
+22-08-2024T17:22:54 - [TEST_STEP][PASSED] - openBrowser("https://www.btnproperti.co.id/tools/hitung-harga-properti"): Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:22:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-08-2024T17:22:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-08-2024T17:22:59 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:22:59 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+22-08-2024T17:22:59 - [MESSAGE][PASSED] - Current window maximized
+
+22-08-2024T17:22:59 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/penghasilanTotal"), penghasilan): Text '6000000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:23:21 - [MESSAGE][PASSED] - Text '6000000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:23:21 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:23:22 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:23:22 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322201477.png]]
+
+22-08-2024T17:23:22 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/pengeluaran"), pengeluaran): Text '7500000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:23:23 - [MESSAGE][PASSED] - Text '7500000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:23:23 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:23:24 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:23:24 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322203852.png]]
+
+22-08-2024T17:23:24 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("hitungHarga/jangkaWaktu"), tahun, false): All options with value '5' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:23:26 - [MESSAGE][PASSED] - All options with value '5' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:23:26 - [TEST_STEP][PASSED] - value = getAttribute(findTestObject("hitungHarga/selectJangkaWaktu"), "tahun"): Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:23:27 - [MESSAGE][PASSED] - Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:23:27 - [TEST_STEP][PASSED] - bulanInt = Integer.valueOf(tahun): null
+
+22-08-2024T17:23:27 - [TEST_STEP][PASSED] - pengeluaranInt = Integer.valueOf(pengeluaran): null
+
+22-08-2024T17:23:27 - [TEST_STEP][PASSED] - penghasilanInt = Integer.valueOf(penghasilan): null
+
+22-08-2024T17:23:27 - [TEST_STEP][PASSED] - if (penghasilanInt <= pengeluaranInt): null
+
+22-08-2024T17:23:27 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("hitungHarga/verifyWarning"), "Isi kurang dari nilai sebelumnya"): Actual text and expected text of test object 'Object Repository/hitungHarga/verifyWarning' are matched.
+
+22-08-2024T17:23:27 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/hitungHarga/verifyWarning' are matched.
+
+22-08-2024T17:23:27 - [TEST_STEP][PASSED] - hitung = 0: null
+
+22-08-2024T17:23:27 - [TEST_STEP][PASSED] - println(hitung): null
+
+22-08-2024T17:23:27 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("hitungHarga/pengeluaran"), 0): Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:23:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+22-08-2024T17:23:28 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:23:28 - [TEST_STEP][FAILED] - verifyElementClickable(findTestObject("hitungHarga/buttonHitung")): Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)
+	at hitungProperti.run(hitungProperti:53)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more
+)
+
+22-08-2024T17:23:28 - [MESSAGE][FAILED] - Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable (Root cause: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)
+	at hitungProperti.run(hitungProperti:53)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+)
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322208469.png]]
+
+22-08-2024T17:23:28 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)
+	at hitungProperti.run(hitungProperti:53)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more
+)
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322208673.png]]]]></system-out>
+         <system-err><![CDATA[22-08-2024T17:22:54 - [TEST_CASE][FAILED] - Test Cases/hitungProperti: Test Cases/hitungProperti FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)
+	at hitungProperti.run(hitungProperti:53)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/hitungProperti" time="35.67" classname="Test Cases/hitungProperti" status="PASSED">
+         <system-out><![CDATA[22-08-2024T17:23:28 - [TEST_CASE][PASSED] - Test Cases/hitungProperti: Test Cases/hitungProperti
+
+22-08-2024T17:23:28 - [TEST_STEP][PASSED] - openBrowser("https://www.btnproperti.co.id/tools/hitung-harga-properti"): Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:23:28 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+22-08-2024T17:23:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-08-2024T17:23:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-08-2024T17:23:33 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:23:33 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+22-08-2024T17:23:33 - [MESSAGE][PASSED] - Current window maximized
+
+22-08-2024T17:23:33 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/penghasilanTotal"), penghasilan): Text '6000000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:23:55 - [MESSAGE][PASSED] - Text '6000000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:23:55 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:23:56 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:23:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322235457.png]]
+
+22-08-2024T17:23:56 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/pengeluaran"), pengeluaran): Text '3000000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:23:59 - [MESSAGE][PASSED] - Text '3000000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:23:59 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:24:00 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:24:00 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322239696.png]]
+
+22-08-2024T17:24:00 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("hitungHarga/jangkaWaktu"), tahun, false): All options with value '5' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:24:01 - [MESSAGE][PASSED] - All options with value '5' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:24:01 - [TEST_STEP][PASSED] - value = getAttribute(findTestObject("hitungHarga/selectJangkaWaktu"), "tahun"): Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:24:01 - [MESSAGE][PASSED] - Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:24:01 - [TEST_STEP][PASSED] - bulanInt = Integer.valueOf(tahun): null
+
+22-08-2024T17:24:01 - [TEST_STEP][PASSED] - pengeluaranInt = Integer.valueOf(pengeluaran): null
+
+22-08-2024T17:24:01 - [TEST_STEP][PASSED] - penghasilanInt = Integer.valueOf(penghasilan): null
+
+22-08-2024T17:24:01 - [TEST_STEP][PASSED] - if (penghasilanInt <= pengeluaranInt): null
+
+22-08-2024T17:24:01 - [TEST_STEP][PASSED] - else: null
+
+22-08-2024T17:24:01 - [TEST_STEP][PASSED] - hitung = penghasilanInt - pengeluaranInt * bulanInt * 12 / 3: null
+
+22-08-2024T17:24:01 - [TEST_STEP][PASSED] - println(hitung): null
+
+22-08-2024T17:24:01 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("hitungHarga/pengeluaran"), 0): Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:24:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+22-08-2024T17:24:02 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:24:02 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("hitungHarga/buttonHitung")): Object 'Object Repository/hitungHarga/buttonHitung' is clickable
+
+22-08-2024T17:24:02 - [MESSAGE][PASSED] - Object 'Object Repository/hitungHarga/buttonHitung' is clickable
+
+22-08-2024T17:24:02 - [TEST_STEP][PASSED] - click(findTestObject("hitungHarga/buttonHitung")): Object: 'Object Repository/hitungHarga/buttonHitung' is clicked on
+
+22-08-2024T17:24:02 - [MESSAGE][PASSED] - Object: 'Object Repository/hitungHarga/buttonHitung' is clicked on
+
+22-08-2024T17:24:02 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:24:03 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:24:03 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322242877.png]]
+
+22-08-2024T17:24:03 - [TEST_STEP][PASSED] - harga = getText(findTestObject("hitungHarga/harga")): Text of object 'Object Repository/hitungHarga/harga' is: 'Rp 60.000.000'
+
+22-08-2024T17:24:04 - [MESSAGE][PASSED] - Text of object 'Object Repository/hitungHarga/harga' is: 'Rp 60.000.000'
+
+22-08-2024T17:24:04 - [TEST_STEP][PASSED] - harga = replace("Rp ", "").replace(".", ""): null
+
+22-08-2024T17:24:04 - [TEST_STEP][PASSED] - hargaInt = Integer.valueOf(harga): null
+
+22-08-2024T17:24:04 - [TEST_STEP][PASSED] - println(hargaInt): null
+
+22-08-2024T17:24:04 - [TEST_STEP][PASSED] - assert hitung == hargaInt: null
+
+22-08-2024T17:24:04 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-08-2024T17:24:04 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/hitungProperti" time="33.691" classname="Test Cases/hitungProperti" status="FAILED">
+         <failure type="FAILED" message="Test Cases/hitungProperti FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)&#xa;	at hitungProperti.run(hitungProperti:53)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)&#xa;	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xa;	... 20 more&#xa;"/>
+         <system-out><![CDATA[22-08-2024T17:24:04 - [TEST_CASE][FAILED] - Test Cases/hitungProperti: Test Cases/hitungProperti FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)
+	at hitungProperti.run(hitungProperti:53)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more
+
+
+22-08-2024T17:24:04 - [TEST_STEP][PASSED] - openBrowser("https://www.btnproperti.co.id/tools/hitung-harga-properti"): Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:24:04 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-08-2024T17:24:04 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-08-2024T17:24:08 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:24:08 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+22-08-2024T17:24:08 - [MESSAGE][PASSED] - Current window maximized
+
+22-08-2024T17:24:08 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/penghasilanTotal"), penghasilan): Text '8000000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:24:31 - [MESSAGE][PASSED] - Text '8000000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:24:31 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:24:32 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:24:32 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322271380.png]]
+
+22-08-2024T17:24:32 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/pengeluaran"), pengeluaran): Text '10000000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:24:34 - [MESSAGE][PASSED] - Text '10000000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:24:34 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:24:35 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:24:35 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322274525.png]]
+
+22-08-2024T17:24:35 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("hitungHarga/jangkaWaktu"), tahun, false): All options with value '6' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:24:36 - [MESSAGE][PASSED] - All options with value '6' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:24:36 - [TEST_STEP][PASSED] - value = getAttribute(findTestObject("hitungHarga/selectJangkaWaktu"), "tahun"): Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:24:36 - [MESSAGE][PASSED] - Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:24:36 - [TEST_STEP][PASSED] - bulanInt = Integer.valueOf(tahun): null
+
+22-08-2024T17:24:36 - [TEST_STEP][PASSED] - pengeluaranInt = Integer.valueOf(pengeluaran): null
+
+22-08-2024T17:24:36 - [TEST_STEP][PASSED] - penghasilanInt = Integer.valueOf(penghasilan): null
+
+22-08-2024T17:24:36 - [TEST_STEP][PASSED] - if (penghasilanInt <= pengeluaranInt): null
+
+22-08-2024T17:24:36 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("hitungHarga/verifyWarning"), "Isi kurang dari nilai sebelumnya"): Actual text and expected text of test object 'Object Repository/hitungHarga/verifyWarning' are matched.
+
+22-08-2024T17:24:37 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/hitungHarga/verifyWarning' are matched.
+
+22-08-2024T17:24:37 - [TEST_STEP][PASSED] - hitung = 0: null
+
+22-08-2024T17:24:37 - [TEST_STEP][PASSED] - println(hitung): null
+
+22-08-2024T17:24:37 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("hitungHarga/pengeluaran"), 0): Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:24:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+22-08-2024T17:24:37 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:24:37 - [TEST_STEP][FAILED] - verifyElementClickable(findTestObject("hitungHarga/buttonHitung")): Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)
+	at hitungProperti.run(hitungProperti:53)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more
+)
+
+22-08-2024T17:24:38 - [MESSAGE][FAILED] - Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable (Root cause: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)
+	at hitungProperti.run(hitungProperti:53)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+)
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322277887.png]]
+
+22-08-2024T17:24:38 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)
+	at hitungProperti.run(hitungProperti:53)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more
+)
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322278114.png]]]]></system-out>
+         <system-err><![CDATA[22-08-2024T17:24:04 - [TEST_CASE][FAILED] - Test Cases/hitungProperti: Test Cases/hitungProperti FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)
+	at hitungProperti.run(hitungProperti:53)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/hitungProperti" time="36.241" classname="Test Cases/hitungProperti" status="PASSED">
+         <system-out><![CDATA[22-08-2024T17:24:38 - [TEST_CASE][PASSED] - Test Cases/hitungProperti: Test Cases/hitungProperti
+
+22-08-2024T17:24:38 - [TEST_STEP][PASSED] - openBrowser("https://www.btnproperti.co.id/tools/hitung-harga-properti"): Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:24:38 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+22-08-2024T17:24:38 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-08-2024T17:24:38 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-08-2024T17:24:43 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:24:43 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+22-08-2024T17:24:43 - [MESSAGE][PASSED] - Current window maximized
+
+22-08-2024T17:24:43 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/penghasilanTotal"), penghasilan): Text '7500000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:25:05 - [MESSAGE][PASSED] - Text '7500000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:25:05 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:25:06 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:25:07 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322305792.png]]
+
+22-08-2024T17:25:07 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/pengeluaran"), pengeluaran): Text '6000000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:25:08 - [MESSAGE][PASSED] - Text '6000000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:25:08 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:25:09 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:25:09 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322308900.png]]
+
+22-08-2024T17:25:09 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("hitungHarga/jangkaWaktu"), tahun, false): All options with value '3' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:25:11 - [MESSAGE][PASSED] - All options with value '3' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:25:11 - [TEST_STEP][PASSED] - value = getAttribute(findTestObject("hitungHarga/selectJangkaWaktu"), "tahun"): Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:25:11 - [MESSAGE][PASSED] - Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:25:11 - [TEST_STEP][PASSED] - bulanInt = Integer.valueOf(tahun): null
+
+22-08-2024T17:25:11 - [TEST_STEP][PASSED] - pengeluaranInt = Integer.valueOf(pengeluaran): null
+
+22-08-2024T17:25:11 - [TEST_STEP][PASSED] - penghasilanInt = Integer.valueOf(penghasilan): null
+
+22-08-2024T17:25:11 - [TEST_STEP][PASSED] - if (penghasilanInt <= pengeluaranInt): null
+
+22-08-2024T17:25:11 - [TEST_STEP][PASSED] - else: null
+
+22-08-2024T17:25:11 - [TEST_STEP][PASSED] - hitung = penghasilanInt - pengeluaranInt * bulanInt * 12 / 3: null
+
+22-08-2024T17:25:11 - [TEST_STEP][PASSED] - println(hitung): null
+
+22-08-2024T17:25:11 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("hitungHarga/pengeluaran"), 0): Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:25:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+22-08-2024T17:25:11 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:25:11 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("hitungHarga/buttonHitung")): Object 'Object Repository/hitungHarga/buttonHitung' is clickable
+
+22-08-2024T17:25:12 - [MESSAGE][PASSED] - Object 'Object Repository/hitungHarga/buttonHitung' is clickable
+
+22-08-2024T17:25:12 - [TEST_STEP][PASSED] - click(findTestObject("hitungHarga/buttonHitung")): Object: 'Object Repository/hitungHarga/buttonHitung' is clicked on
+
+22-08-2024T17:25:12 - [MESSAGE][PASSED] - Object: 'Object Repository/hitungHarga/buttonHitung' is clicked on
+
+22-08-2024T17:25:12 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:25:13 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:25:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322312510.png]]
+
+22-08-2024T17:25:13 - [TEST_STEP][PASSED] - harga = getText(findTestObject("hitungHarga/harga")): Text of object 'Object Repository/hitungHarga/harga' is: 'Rp 18.000.000'
+
+22-08-2024T17:25:14 - [MESSAGE][PASSED] - Text of object 'Object Repository/hitungHarga/harga' is: 'Rp 18.000.000'
+
+22-08-2024T17:25:14 - [TEST_STEP][PASSED] - harga = replace("Rp ", "").replace(".", ""): null
+
+22-08-2024T17:25:14 - [TEST_STEP][PASSED] - hargaInt = Integer.valueOf(harga): null
+
+22-08-2024T17:25:14 - [TEST_STEP][PASSED] - println(hargaInt): null
+
+22-08-2024T17:25:14 - [TEST_STEP][PASSED] - assert hitung == hargaInt: null
+
+22-08-2024T17:25:14 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-08-2024T17:25:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/hitungProperti" time="35.521" classname="Test Cases/hitungProperti" status="FAILED">
+         <failure type="FAILED" message="Test Cases/hitungProperti FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)&#xa;	at hitungProperti.run(hitungProperti:53)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)&#xa;	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xa;	... 20 more&#xa;"/>
+         <system-out><![CDATA[22-08-2024T17:25:14 - [TEST_CASE][FAILED] - Test Cases/hitungProperti: Test Cases/hitungProperti FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)
+	at hitungProperti.run(hitungProperti:53)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more
+
+
+22-08-2024T17:25:14 - [TEST_STEP][PASSED] - openBrowser("https://www.btnproperti.co.id/tools/hitung-harga-properti"): Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:25:14 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-08-2024T17:25:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-08-2024T17:25:18 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:25:18 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+22-08-2024T17:25:18 - [MESSAGE][PASSED] - Current window maximized
+
+22-08-2024T17:25:18 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/penghasilanTotal"), penghasilan): Text '6000000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:25:41 - [MESSAGE][PASSED] - Text '6000000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:25:41 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:25:42 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:25:42 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322341262.png]]
+
+22-08-2024T17:25:42 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/pengeluaran"), pengeluaran): Text '6000000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:25:46 - [MESSAGE][PASSED] - Text '6000000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:25:46 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:25:47 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:25:47 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322346674.png]]
+
+22-08-2024T17:25:47 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("hitungHarga/jangkaWaktu"), tahun, false): All options with value '4' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:25:48 - [MESSAGE][PASSED] - All options with value '4' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:25:48 - [TEST_STEP][PASSED] - value = getAttribute(findTestObject("hitungHarga/selectJangkaWaktu"), "tahun"): Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:25:48 - [MESSAGE][PASSED] - Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:25:48 - [TEST_STEP][PASSED] - bulanInt = Integer.valueOf(tahun): null
+
+22-08-2024T17:25:48 - [TEST_STEP][PASSED] - pengeluaranInt = Integer.valueOf(pengeluaran): null
+
+22-08-2024T17:25:48 - [TEST_STEP][PASSED] - penghasilanInt = Integer.valueOf(penghasilan): null
+
+22-08-2024T17:25:48 - [TEST_STEP][PASSED] - if (penghasilanInt <= pengeluaranInt): null
+
+22-08-2024T17:25:48 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("hitungHarga/verifyWarning"), "Isi kurang dari nilai sebelumnya"): Actual text and expected text of test object 'Object Repository/hitungHarga/verifyWarning' are matched.
+
+22-08-2024T17:25:48 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/hitungHarga/verifyWarning' are matched.
+
+22-08-2024T17:25:48 - [TEST_STEP][PASSED] - hitung = 0: null
+
+22-08-2024T17:25:48 - [TEST_STEP][PASSED] - println(hitung): null
+
+22-08-2024T17:25:48 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("hitungHarga/pengeluaran"), 0): Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:25:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+22-08-2024T17:25:49 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:25:49 - [TEST_STEP][FAILED] - verifyElementClickable(findTestObject("hitungHarga/buttonHitung")): Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)
+	at hitungProperti.run(hitungProperti:53)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more
+)
+
+22-08-2024T17:25:49 - [MESSAGE][FAILED] - Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable (Root cause: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)
+	at hitungProperti.run(hitungProperti:53)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+)
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322349673.png]]
+
+22-08-2024T17:25:50 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)
+	at hitungProperti.run(hitungProperti:53)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more
+)
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322349880.png]]]]></system-out>
+         <system-err><![CDATA[22-08-2024T17:25:14 - [TEST_CASE][FAILED] - Test Cases/hitungProperti: Test Cases/hitungProperti FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)
+	at hitungProperti.run(hitungProperti:53)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/hitungProperti" time="36.41" classname="Test Cases/hitungProperti" status="PASSED">
+         <system-out><![CDATA[22-08-2024T17:25:50 - [TEST_CASE][PASSED] - Test Cases/hitungProperti: Test Cases/hitungProperti
+
+22-08-2024T17:25:50 - [TEST_STEP][PASSED] - openBrowser("https://www.btnproperti.co.id/tools/hitung-harga-properti"): Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:25:50 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+22-08-2024T17:25:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-08-2024T17:25:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-08-2024T17:25:54 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:25:54 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+22-08-2024T17:25:54 - [MESSAGE][PASSED] - Current window maximized
+
+22-08-2024T17:25:54 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/penghasilanTotal"), penghasilan): Text '9000000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:26:16 - [MESSAGE][PASSED] - Text '9000000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:26:16 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:26:17 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:26:18 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322376905.png]]
+
+22-08-2024T17:26:18 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/pengeluaran"), pengeluaran): Text '6000000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:26:21 - [MESSAGE][PASSED] - Text '6000000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:26:21 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:26:22 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:26:22 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322381140.png]]
+
+22-08-2024T17:26:22 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("hitungHarga/jangkaWaktu"), tahun, false): All options with value '3' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:26:23 - [MESSAGE][PASSED] - All options with value '3' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:26:23 - [TEST_STEP][PASSED] - value = getAttribute(findTestObject("hitungHarga/selectJangkaWaktu"), "tahun"): Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:26:23 - [MESSAGE][PASSED] - Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:26:23 - [TEST_STEP][PASSED] - bulanInt = Integer.valueOf(tahun): null
+
+22-08-2024T17:26:23 - [TEST_STEP][PASSED] - pengeluaranInt = Integer.valueOf(pengeluaran): null
+
+22-08-2024T17:26:23 - [TEST_STEP][PASSED] - penghasilanInt = Integer.valueOf(penghasilan): null
+
+22-08-2024T17:26:23 - [TEST_STEP][PASSED] - if (penghasilanInt <= pengeluaranInt): null
+
+22-08-2024T17:26:23 - [TEST_STEP][PASSED] - else: null
+
+22-08-2024T17:26:23 - [TEST_STEP][PASSED] - hitung = penghasilanInt - pengeluaranInt * bulanInt * 12 / 3: null
+
+22-08-2024T17:26:23 - [TEST_STEP][PASSED] - println(hitung): null
+
+22-08-2024T17:26:23 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("hitungHarga/pengeluaran"), 0): Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:26:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+22-08-2024T17:26:23 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:26:23 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("hitungHarga/buttonHitung")): Object 'Object Repository/hitungHarga/buttonHitung' is clickable
+
+22-08-2024T17:26:24 - [MESSAGE][PASSED] - Object 'Object Repository/hitungHarga/buttonHitung' is clickable
+
+22-08-2024T17:26:24 - [TEST_STEP][PASSED] - click(findTestObject("hitungHarga/buttonHitung")): Object: 'Object Repository/hitungHarga/buttonHitung' is clicked on
+
+22-08-2024T17:26:24 - [MESSAGE][PASSED] - Object: 'Object Repository/hitungHarga/buttonHitung' is clicked on
+
+22-08-2024T17:26:24 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:26:25 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:26:25 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322384516.png]]
+
+22-08-2024T17:26:25 - [TEST_STEP][PASSED] - harga = getText(findTestObject("hitungHarga/harga")): Text of object 'Object Repository/hitungHarga/harga' is: 'Rp 36.000.000'
+
+22-08-2024T17:26:26 - [MESSAGE][PASSED] - Text of object 'Object Repository/hitungHarga/harga' is: 'Rp 36.000.000'
+
+22-08-2024T17:26:26 - [TEST_STEP][PASSED] - harga = replace("Rp ", "").replace(".", ""): null
+
+22-08-2024T17:26:26 - [TEST_STEP][PASSED] - hargaInt = Integer.valueOf(harga): null
+
+22-08-2024T17:26:26 - [TEST_STEP][PASSED] - println(hargaInt): null
+
+22-08-2024T17:26:26 - [TEST_STEP][PASSED] - assert hitung == hargaInt: null
+
+22-08-2024T17:26:26 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-08-2024T17:26:26 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/hitungProperti" time="36.693" classname="Test Cases/hitungProperti" status="PASSED">
+         <system-out><![CDATA[22-08-2024T17:26:26 - [TEST_CASE][PASSED] - Test Cases/hitungProperti: Test Cases/hitungProperti
+
+22-08-2024T17:26:26 - [TEST_STEP][PASSED] - openBrowser("https://www.btnproperti.co.id/tools/hitung-harga-properti"): Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:26:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-08-2024T17:26:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-08-2024T17:26:31 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.btnproperti.co.id/tools/hitung-harga-properti'
+
+22-08-2024T17:26:31 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+22-08-2024T17:26:31 - [MESSAGE][PASSED] - Current window maximized
+
+22-08-2024T17:26:31 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/penghasilanTotal"), penghasilan): Text '2500000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:26:53 - [MESSAGE][PASSED] - Text '2500000' is set on object 'Object Repository/hitungHarga/penghasilanTotal'
+
+22-08-2024T17:26:53 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:26:54 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:26:54 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322413324.png]]
+
+22-08-2024T17:26:54 - [TEST_STEP][PASSED] - setText(findTestObject("hitungHarga/pengeluaran"), pengeluaran): Text '500000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:26:57 - [MESSAGE][PASSED] - Text '500000' is set on object 'Object Repository/hitungHarga/pengeluaran'
+
+22-08-2024T17:26:57 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:26:58 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:26:58 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322417531.png]]
+
+22-08-2024T17:26:58 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("hitungHarga/jangkaWaktu"), tahun, false): All options with value '2' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:26:59 - [MESSAGE][PASSED] - All options with value '2' are selected in object 'Object Repository/hitungHarga/jangkaWaktu' 
+
+22-08-2024T17:26:59 - [TEST_STEP][PASSED] - value = getAttribute(findTestObject("hitungHarga/selectJangkaWaktu"), "tahun"): Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:26:59 - [MESSAGE][PASSED] - Attribute 'tahun' of object 'Object Repository/hitungHarga/selectJangkaWaktu' is: 'null'
+
+22-08-2024T17:26:59 - [TEST_STEP][PASSED] - bulanInt = Integer.valueOf(tahun): null
+
+22-08-2024T17:26:59 - [TEST_STEP][PASSED] - pengeluaranInt = Integer.valueOf(pengeluaran): null
+
+22-08-2024T17:26:59 - [TEST_STEP][PASSED] - penghasilanInt = Integer.valueOf(penghasilan): null
+
+22-08-2024T17:26:59 - [TEST_STEP][PASSED] - if (penghasilanInt <= pengeluaranInt): null
+
+22-08-2024T17:26:59 - [TEST_STEP][PASSED] - else: null
+
+22-08-2024T17:26:59 - [TEST_STEP][PASSED] - hitung = penghasilanInt - pengeluaranInt * bulanInt * 12 / 3: null
+
+22-08-2024T17:26:59 - [TEST_STEP][PASSED] - println(hitung): null
+
+22-08-2024T17:26:59 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("hitungHarga/pengeluaran"), 0): Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:26:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+22-08-2024T17:26:59 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/hitungHarga/pengeluaran' successfully
+
+22-08-2024T17:26:59 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("hitungHarga/buttonHitung")): Object 'Object Repository/hitungHarga/buttonHitung' is clickable
+
+22-08-2024T17:27:00 - [MESSAGE][PASSED] - Object 'Object Repository/hitungHarga/buttonHitung' is clickable
+
+22-08-2024T17:27:00 - [TEST_STEP][PASSED] - click(findTestObject("hitungHarga/buttonHitung")): Object: 'Object Repository/hitungHarga/buttonHitung' is clicked on
+
+22-08-2024T17:27:00 - [MESSAGE][PASSED] - Object: 'Object Repository/hitungHarga/buttonHitung' is clicked on
+
+22-08-2024T17:27:00 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+22-08-2024T17:27:01 - [MESSAGE][INFO] - 0 hidden object(s)
+
+22-08-2024T17:27:01 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\BTN\\Reports\\20240822_172053\\hitung\\20240822_172053\\1724322420768.png]]
+
+22-08-2024T17:27:01 - [TEST_STEP][PASSED] - harga = getText(findTestObject("hitungHarga/harga")): Text of object 'Object Repository/hitungHarga/harga' is: 'Rp 16.000.000'
+
+22-08-2024T17:27:02 - [MESSAGE][PASSED] - Text of object 'Object Repository/hitungHarga/harga' is: 'Rp 16.000.000'
+
+22-08-2024T17:27:02 - [TEST_STEP][PASSED] - harga = replace("Rp ", "").replace(".", ""): null
+
+22-08-2024T17:27:02 - [TEST_STEP][PASSED] - hargaInt = Integer.valueOf(harga): null
+
+22-08-2024T17:27:02 - [TEST_STEP][PASSED] - println(hargaInt): null
+
+22-08-2024T17:27:02 - [TEST_STEP][PASSED] - assert hitung == hargaInt: null
+
+22-08-2024T17:27:02 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-08-2024T17:27:03 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[22-08-2024T17:21:01 - [TEST_SUITE][FAILED] - hitung: Test Cases/hitungProperti FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)
+	at hitungProperti.run(hitungProperti:53)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[22-08-2024T17:21:01 - [TEST_SUITE][FAILED] - hitung: Test Cases/hitungProperti FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/hitungHarga/buttonHitung' to be clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.verifyElementClickable(VerifyElementClickableKeyword.groovy:96)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword.execute(VerifyElementClickableKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(WebUiBuiltInKeywords.groovy:605)
+	at hitungProperti.run(hitungProperti:53)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1724322053554.run(TempTestSuite1724322053554.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Object 'Object Repository/hitungHarga/buttonHitung' is NOT clickable
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.doCall(VerifyElementClickableKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementClickableKeyword$_verifyElementClickable_closure1.call(VerifyElementClickableKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+   </testsuite>
+</testsuites>

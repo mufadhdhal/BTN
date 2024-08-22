@@ -1,0 +1,235 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+hitung,Chrome 127.0.0.0,,,22-08-2024 17:21:01,22-08-2024 17:27:03,6m - 1.745s,FAILED
+,,,,,,,
+Test Cases/hitungProperti,Chrome 127.0.0.0,,,22-08-2024 17:21:01,22-08-2024 17:21:40,38.896s,PASSED
+"openBrowser(""https://www.btnproperti.co.id/tools/hitung-harga-properti"")",Chrome 127.0.0.0,,,22-08-2024 17:21:02,22-08-2024 17:21:09,6.621s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,22-08-2024 17:21:09,22-08-2024 17:21:09,0.175s,PASSED
+"setText(findTestObject(""hitungHarga/penghasilanTotal""), penghasilan)",Chrome 127.0.0.0,,,22-08-2024 17:21:09,22-08-2024 17:21:31,22.474s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:21:31,22-08-2024 17:21:33,1.849s,PASSED
+"setText(findTestObject(""hitungHarga/pengeluaran""), pengeluaran)",Chrome 127.0.0.0,,,22-08-2024 17:21:33,22-08-2024 17:21:35,1.843s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:21:35,22-08-2024 17:21:36,0.998s,PASSED
+"selectOptionByValue(findTestObject(""hitungHarga/jangkaWaktu""), tahun, false)",Chrome 127.0.0.0,,,22-08-2024 17:21:36,22-08-2024 17:21:37,0.913s,PASSED
+"value = getAttribute(findTestObject(""hitungHarga/selectJangkaWaktu""), ""tahun"")",Chrome 127.0.0.0,,,22-08-2024 17:21:37,22-08-2024 17:21:37,0.372s,PASSED
+bulanInt = Integer.valueOf(tahun),Chrome 127.0.0.0,,,22-08-2024 17:21:37,22-08-2024 17:21:37,0.007s,PASSED
+pengeluaranInt = Integer.valueOf(pengeluaran),Chrome 127.0.0.0,,,22-08-2024 17:21:37,22-08-2024 17:21:37,0.004s,PASSED
+penghasilanInt = Integer.valueOf(penghasilan),Chrome 127.0.0.0,,,22-08-2024 17:21:37,22-08-2024 17:21:37,0.005s,PASSED
+if (penghasilanInt <= pengeluaranInt),Chrome 127.0.0.0,,,22-08-2024 17:21:37,22-08-2024 17:21:37,0.004s,PASSED
+else,Chrome 127.0.0.0,,,22-08-2024 17:21:37,22-08-2024 17:21:38,0.049s,PASSED
+println(hitung),Chrome 127.0.0.0,,,22-08-2024 17:21:38,22-08-2024 17:21:38,0.018s,PASSED
+"scrollToElement(findTestObject(""hitungHarga/pengeluaran""), 0)",Chrome 127.0.0.0,,,22-08-2024 17:21:38,22-08-2024 17:21:38,0.337s,PASSED
+"verifyElementClickable(findTestObject(""hitungHarga/buttonHitung""))",Chrome 127.0.0.0,,,22-08-2024 17:21:38,22-08-2024 17:21:38,0.353s,PASSED
+"click(findTestObject(""hitungHarga/buttonHitung""))",Chrome 127.0.0.0,,,22-08-2024 17:21:38,22-08-2024 17:21:39,0.415s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:21:39,22-08-2024 17:21:40,0.912s,PASSED
+"harga = getText(findTestObject(""hitungHarga/harga""))",Chrome 127.0.0.0,,,22-08-2024 17:21:40,22-08-2024 17:21:40,0.358s,PASSED
+"harga = replace(""Rp "", """").replace(""."", """")",Chrome 127.0.0.0,,,22-08-2024 17:21:40,22-08-2024 17:21:40,0.010s,PASSED
+hargaInt = Integer.valueOf(harga),Chrome 127.0.0.0,,,22-08-2024 17:21:40,22-08-2024 17:21:40,0.003s,PASSED
+println(hargaInt),Chrome 127.0.0.0,,,22-08-2024 17:21:40,22-08-2024 17:21:40,0.004s,PASSED
+assert hitung == hargaInt,Chrome 127.0.0.0,,,22-08-2024 17:21:40,22-08-2024 17:21:40,0.006s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,22-08-2024 17:21:40,22-08-2024 17:21:40,0.352s,PASSED
+,,,,,,,
+Test Cases/hitungProperti,Chrome 127.0.0.0,,,22-08-2024 17:21:40,22-08-2024 17:22:19,38.594s,PASSED
+"openBrowser(""https://www.btnproperti.co.id/tools/hitung-harga-properti"")",Chrome 127.0.0.0,,,22-08-2024 17:21:40,22-08-2024 17:21:44,3.870s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,22-08-2024 17:21:44,22-08-2024 17:21:44,0.126s,PASSED
+"setText(findTestObject(""hitungHarga/penghasilanTotal""), penghasilan)",Chrome 127.0.0.0,,,22-08-2024 17:21:44,22-08-2024 17:22:07,23.037s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:22:07,22-08-2024 17:22:09,1.211s,PASSED
+"setText(findTestObject(""hitungHarga/pengeluaran""), pengeluaran)",Chrome 127.0.0.0,,,22-08-2024 17:22:09,22-08-2024 17:22:14,4.976s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:22:14,22-08-2024 17:22:15,1.309s,PASSED
+"selectOptionByValue(findTestObject(""hitungHarga/jangkaWaktu""), tahun, false)",Chrome 127.0.0.0,,,22-08-2024 17:22:15,22-08-2024 17:22:16,0.724s,PASSED
+"value = getAttribute(findTestObject(""hitungHarga/selectJangkaWaktu""), ""tahun"")",Chrome 127.0.0.0,,,22-08-2024 17:22:16,22-08-2024 17:22:16,0.303s,PASSED
+bulanInt = Integer.valueOf(tahun),Chrome 127.0.0.0,,,22-08-2024 17:22:16,22-08-2024 17:22:16,0.001s,PASSED
+pengeluaranInt = Integer.valueOf(pengeluaran),Chrome 127.0.0.0,,,22-08-2024 17:22:16,22-08-2024 17:22:16,0.001s,PASSED
+penghasilanInt = Integer.valueOf(penghasilan),Chrome 127.0.0.0,,,22-08-2024 17:22:16,22-08-2024 17:22:16,0.002s,PASSED
+if (penghasilanInt <= pengeluaranInt),Chrome 127.0.0.0,,,22-08-2024 17:22:16,22-08-2024 17:22:16,0.001s,PASSED
+else,Chrome 127.0.0.0,,,22-08-2024 17:22:16,22-08-2024 17:22:16,0.004s,PASSED
+println(hitung),Chrome 127.0.0.0,,,22-08-2024 17:22:16,22-08-2024 17:22:16,0.001s,PASSED
+"scrollToElement(findTestObject(""hitungHarga/pengeluaran""), 0)",Chrome 127.0.0.0,,,22-08-2024 17:22:16,22-08-2024 17:22:16,0.307s,PASSED
+"verifyElementClickable(findTestObject(""hitungHarga/buttonHitung""))",Chrome 127.0.0.0,,,22-08-2024 17:22:16,22-08-2024 17:22:17,0.322s,PASSED
+"click(findTestObject(""hitungHarga/buttonHitung""))",Chrome 127.0.0.0,,,22-08-2024 17:22:17,22-08-2024 17:22:17,0.388s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:22:17,22-08-2024 17:22:18,1.310s,PASSED
+"harga = getText(findTestObject(""hitungHarga/harga""))",Chrome 127.0.0.0,,,22-08-2024 17:22:18,22-08-2024 17:22:19,0.303s,PASSED
+"harga = replace(""Rp "", """").replace(""."", """")",Chrome 127.0.0.0,,,22-08-2024 17:22:19,22-08-2024 17:22:19,0.001s,PASSED
+hargaInt = Integer.valueOf(harga),Chrome 127.0.0.0,,,22-08-2024 17:22:19,22-08-2024 17:22:19,0.002s,PASSED
+println(hargaInt),Chrome 127.0.0.0,,,22-08-2024 17:22:19,22-08-2024 17:22:19,0.001s,PASSED
+assert hitung == hargaInt,Chrome 127.0.0.0,,,22-08-2024 17:22:19,22-08-2024 17:22:19,0.001s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,22-08-2024 17:22:19,22-08-2024 17:22:19,0.328s,PASSED
+,,,,,,,
+Test Cases/hitungProperti,Chrome 127.0.0.0,,,22-08-2024 17:22:19,22-08-2024 17:22:54,35.246s,PASSED
+"openBrowser(""https://www.btnproperti.co.id/tools/hitung-harga-properti"")",Chrome 127.0.0.0,,,22-08-2024 17:22:19,22-08-2024 17:22:23,3.783s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,22-08-2024 17:22:23,22-08-2024 17:22:23,0.097s,PASSED
+"setText(findTestObject(""hitungHarga/penghasilanTotal""), penghasilan)",Chrome 127.0.0.0,,,22-08-2024 17:22:23,22-08-2024 17:22:45,21.964s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:22:45,22-08-2024 17:22:46,1.215s,PASSED
+"setText(findTestObject(""hitungHarga/pengeluaran""), pengeluaran)",Chrome 127.0.0.0,,,22-08-2024 17:22:46,22-08-2024 17:22:49,2.885s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:22:49,22-08-2024 17:22:50,1.020s,PASSED
+"selectOptionByValue(findTestObject(""hitungHarga/jangkaWaktu""), tahun, false)",Chrome 127.0.0.0,,,22-08-2024 17:22:50,22-08-2024 17:22:51,0.791s,PASSED
+"value = getAttribute(findTestObject(""hitungHarga/selectJangkaWaktu""), ""tahun"")",Chrome 127.0.0.0,,,22-08-2024 17:22:51,22-08-2024 17:22:51,0.470s,PASSED
+bulanInt = Integer.valueOf(tahun),Chrome 127.0.0.0,,,22-08-2024 17:22:51,22-08-2024 17:22:51,0.001s,PASSED
+pengeluaranInt = Integer.valueOf(pengeluaran),Chrome 127.0.0.0,,,22-08-2024 17:22:51,22-08-2024 17:22:51,0.001s,PASSED
+penghasilanInt = Integer.valueOf(penghasilan),Chrome 127.0.0.0,,,22-08-2024 17:22:51,22-08-2024 17:22:51,0.001s,PASSED
+if (penghasilanInt <= pengeluaranInt),Chrome 127.0.0.0,,,22-08-2024 17:22:51,22-08-2024 17:22:51,0.000s,PASSED
+else,Chrome 127.0.0.0,,,22-08-2024 17:22:51,22-08-2024 17:22:51,0.003s,PASSED
+println(hitung),Chrome 127.0.0.0,,,22-08-2024 17:22:51,22-08-2024 17:22:51,0.001s,PASSED
+"scrollToElement(findTestObject(""hitungHarga/pengeluaran""), 0)",Chrome 127.0.0.0,,,22-08-2024 17:22:51,22-08-2024 17:22:52,0.292s,PASSED
+"verifyElementClickable(findTestObject(""hitungHarga/buttonHitung""))",Chrome 127.0.0.0,,,22-08-2024 17:22:52,22-08-2024 17:22:52,0.299s,PASSED
+"click(findTestObject(""hitungHarga/buttonHitung""))",Chrome 127.0.0.0,,,22-08-2024 17:22:52,22-08-2024 17:22:52,0.388s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:22:52,22-08-2024 17:22:54,1.222s,PASSED
+"harga = getText(findTestObject(""hitungHarga/harga""))",Chrome 127.0.0.0,,,22-08-2024 17:22:54,22-08-2024 17:22:54,0.496s,PASSED
+"harga = replace(""Rp "", """").replace(""."", """")",Chrome 127.0.0.0,,,22-08-2024 17:22:54,22-08-2024 17:22:54,0.001s,PASSED
+hargaInt = Integer.valueOf(harga),Chrome 127.0.0.0,,,22-08-2024 17:22:54,22-08-2024 17:22:54,0.001s,PASSED
+println(hargaInt),Chrome 127.0.0.0,,,22-08-2024 17:22:54,22-08-2024 17:22:54,0.001s,PASSED
+assert hitung == hargaInt,Chrome 127.0.0.0,,,22-08-2024 17:22:54,22-08-2024 17:22:54,0.001s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,22-08-2024 17:22:54,22-08-2024 17:22:54,0.268s,PASSED
+,,,,,,,
+Test Cases/hitungProperti,Chrome 127.0.0.0,,,22-08-2024 17:22:54,22-08-2024 17:23:28,33.987s,FAILED
+"openBrowser(""https://www.btnproperti.co.id/tools/hitung-harga-properti"")",Chrome 127.0.0.0,,,22-08-2024 17:22:54,22-08-2024 17:22:59,4.205s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,22-08-2024 17:22:59,22-08-2024 17:22:59,0.203s,PASSED
+"setText(findTestObject(""hitungHarga/penghasilanTotal""), penghasilan)",Chrome 127.0.0.0,,,22-08-2024 17:22:59,22-08-2024 17:23:21,22.180s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:23:21,22-08-2024 17:23:22,1.319s,PASSED
+"setText(findTestObject(""hitungHarga/pengeluaran""), pengeluaran)",Chrome 127.0.0.0,,,22-08-2024 17:23:22,22-08-2024 17:23:23,1.053s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:23:23,22-08-2024 17:23:24,0.986s,PASSED
+"selectOptionByValue(findTestObject(""hitungHarga/jangkaWaktu""), tahun, false)",Chrome 127.0.0.0,,,22-08-2024 17:23:24,22-08-2024 17:23:26,1.991s,PASSED
+"value = getAttribute(findTestObject(""hitungHarga/selectJangkaWaktu""), ""tahun"")",Chrome 127.0.0.0,,,22-08-2024 17:23:26,22-08-2024 17:23:27,0.336s,PASSED
+bulanInt = Integer.valueOf(tahun),Chrome 127.0.0.0,,,22-08-2024 17:23:27,22-08-2024 17:23:27,0.002s,PASSED
+pengeluaranInt = Integer.valueOf(pengeluaran),Chrome 127.0.0.0,,,22-08-2024 17:23:27,22-08-2024 17:23:27,0.002s,PASSED
+penghasilanInt = Integer.valueOf(penghasilan),Chrome 127.0.0.0,,,22-08-2024 17:23:27,22-08-2024 17:23:27,0.001s,PASSED
+if (penghasilanInt <= pengeluaranInt),Chrome 127.0.0.0,,,22-08-2024 17:23:27,22-08-2024 17:23:27,0.667s,PASSED
+println(hitung),Chrome 127.0.0.0,,,22-08-2024 17:23:27,22-08-2024 17:23:27,0.004s,PASSED
+"scrollToElement(findTestObject(""hitungHarga/pengeluaran""), 0)",Chrome 127.0.0.0,,,22-08-2024 17:23:27,22-08-2024 17:23:28,0.311s,PASSED
+"verifyElementClickable(findTestObject(""hitungHarga/buttonHitung""))",Chrome 127.0.0.0,,,22-08-2024 17:23:28,22-08-2024 17:23:28,0.682s,FAILED
+,,,,,,,
+Test Cases/hitungProperti,Chrome 127.0.0.0,,,22-08-2024 17:23:28,22-08-2024 17:24:04,35.670s,PASSED
+"openBrowser(""https://www.btnproperti.co.id/tools/hitung-harga-properti"")",Chrome 127.0.0.0,,,22-08-2024 17:23:28,22-08-2024 17:23:33,4.115s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,22-08-2024 17:23:33,22-08-2024 17:23:33,0.115s,PASSED
+"setText(findTestObject(""hitungHarga/penghasilanTotal""), penghasilan)",Chrome 127.0.0.0,,,22-08-2024 17:23:33,22-08-2024 17:23:55,22.280s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:23:55,22-08-2024 17:23:56,1.310s,PASSED
+"setText(findTestObject(""hitungHarga/pengeluaran""), pengeluaran)",Chrome 127.0.0.0,,,22-08-2024 17:23:56,22-08-2024 17:23:59,2.928s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:23:59,22-08-2024 17:24:00,0.953s,PASSED
+"selectOptionByValue(findTestObject(""hitungHarga/jangkaWaktu""), tahun, false)",Chrome 127.0.0.0,,,22-08-2024 17:24:00,22-08-2024 17:24:01,0.786s,PASSED
+"value = getAttribute(findTestObject(""hitungHarga/selectJangkaWaktu""), ""tahun"")",Chrome 127.0.0.0,,,22-08-2024 17:24:01,22-08-2024 17:24:01,0.300s,PASSED
+bulanInt = Integer.valueOf(tahun),Chrome 127.0.0.0,,,22-08-2024 17:24:01,22-08-2024 17:24:01,0.001s,PASSED
+pengeluaranInt = Integer.valueOf(pengeluaran),Chrome 127.0.0.0,,,22-08-2024 17:24:01,22-08-2024 17:24:01,0.000s,PASSED
+penghasilanInt = Integer.valueOf(penghasilan),Chrome 127.0.0.0,,,22-08-2024 17:24:01,22-08-2024 17:24:01,0.001s,PASSED
+if (penghasilanInt <= pengeluaranInt),Chrome 127.0.0.0,,,22-08-2024 17:24:01,22-08-2024 17:24:01,0.001s,PASSED
+else,Chrome 127.0.0.0,,,22-08-2024 17:24:01,22-08-2024 17:24:01,0.002s,PASSED
+println(hitung),Chrome 127.0.0.0,,,22-08-2024 17:24:01,22-08-2024 17:24:01,0.001s,PASSED
+"scrollToElement(findTestObject(""hitungHarga/pengeluaran""), 0)",Chrome 127.0.0.0,,,22-08-2024 17:24:01,22-08-2024 17:24:02,0.368s,PASSED
+"verifyElementClickable(findTestObject(""hitungHarga/buttonHitung""))",Chrome 127.0.0.0,,,22-08-2024 17:24:02,22-08-2024 17:24:02,0.394s,PASSED
+"click(findTestObject(""hitungHarga/buttonHitung""))",Chrome 127.0.0.0,,,22-08-2024 17:24:02,22-08-2024 17:24:02,0.369s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:24:02,22-08-2024 17:24:03,0.988s,PASSED
+"harga = getText(findTestObject(""hitungHarga/harga""))",Chrome 127.0.0.0,,,22-08-2024 17:24:03,22-08-2024 17:24:04,0.315s,PASSED
+"harga = replace(""Rp "", """").replace(""."", """")",Chrome 127.0.0.0,,,22-08-2024 17:24:04,22-08-2024 17:24:04,0.002s,PASSED
+hargaInt = Integer.valueOf(harga),Chrome 127.0.0.0,,,22-08-2024 17:24:04,22-08-2024 17:24:04,0.002s,PASSED
+println(hargaInt),Chrome 127.0.0.0,,,22-08-2024 17:24:04,22-08-2024 17:24:04,0.002s,PASSED
+assert hitung == hargaInt,Chrome 127.0.0.0,,,22-08-2024 17:24:04,22-08-2024 17:24:04,0.001s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,22-08-2024 17:24:04,22-08-2024 17:24:04,0.367s,PASSED
+,,,,,,,
+Test Cases/hitungProperti,Chrome 127.0.0.0,,,22-08-2024 17:24:04,22-08-2024 17:24:38,33.691s,FAILED
+"openBrowser(""https://www.btnproperti.co.id/tools/hitung-harga-properti"")",Chrome 127.0.0.0,,,22-08-2024 17:24:04,22-08-2024 17:24:08,4.057s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,22-08-2024 17:24:08,22-08-2024 17:24:08,0.198s,PASSED
+"setText(findTestObject(""hitungHarga/penghasilanTotal""), penghasilan)",Chrome 127.0.0.0,,,22-08-2024 17:24:08,22-08-2024 17:24:31,22.508s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:24:31,22-08-2024 17:24:32,1.155s,PASSED
+"setText(findTestObject(""hitungHarga/pengeluaran""), pengeluaran)",Chrome 127.0.0.0,,,22-08-2024 17:24:32,22-08-2024 17:24:34,1.988s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:24:34,22-08-2024 17:24:35,1.052s,PASSED
+"selectOptionByValue(findTestObject(""hitungHarga/jangkaWaktu""), tahun, false)",Chrome 127.0.0.0,,,22-08-2024 17:24:35,22-08-2024 17:24:36,0.928s,PASSED
+"value = getAttribute(findTestObject(""hitungHarga/selectJangkaWaktu""), ""tahun"")",Chrome 127.0.0.0,,,22-08-2024 17:24:36,22-08-2024 17:24:36,0.368s,PASSED
+bulanInt = Integer.valueOf(tahun),Chrome 127.0.0.0,,,22-08-2024 17:24:36,22-08-2024 17:24:36,0.001s,PASSED
+pengeluaranInt = Integer.valueOf(pengeluaran),Chrome 127.0.0.0,,,22-08-2024 17:24:36,22-08-2024 17:24:36,0.001s,PASSED
+penghasilanInt = Integer.valueOf(penghasilan),Chrome 127.0.0.0,,,22-08-2024 17:24:36,22-08-2024 17:24:36,0.001s,PASSED
+if (penghasilanInt <= pengeluaranInt),Chrome 127.0.0.0,,,22-08-2024 17:24:36,22-08-2024 17:24:37,0.336s,PASSED
+println(hitung),Chrome 127.0.0.0,,,22-08-2024 17:24:37,22-08-2024 17:24:37,0.001s,PASSED
+"scrollToElement(findTestObject(""hitungHarga/pengeluaran""), 0)",Chrome 127.0.0.0,,,22-08-2024 17:24:37,22-08-2024 17:24:37,0.379s,PASSED
+"verifyElementClickable(findTestObject(""hitungHarga/buttonHitung""))",Chrome 127.0.0.0,,,22-08-2024 17:24:37,22-08-2024 17:24:38,0.680s,FAILED
+,,,,,,,
+Test Cases/hitungProperti,Chrome 127.0.0.0,,,22-08-2024 17:24:38,22-08-2024 17:25:14,36.241s,PASSED
+"openBrowser(""https://www.btnproperti.co.id/tools/hitung-harga-properti"")",Chrome 127.0.0.0,,,22-08-2024 17:24:38,22-08-2024 17:24:43,4.959s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,22-08-2024 17:24:43,22-08-2024 17:24:43,0.112s,PASSED
+"setText(findTestObject(""hitungHarga/penghasilanTotal""), penghasilan)",Chrome 127.0.0.0,,,22-08-2024 17:24:43,22-08-2024 17:25:05,22.381s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:25:05,22-08-2024 17:25:07,1.288s,PASSED
+"setText(findTestObject(""hitungHarga/pengeluaran""), pengeluaran)",Chrome 127.0.0.0,,,22-08-2024 17:25:07,22-08-2024 17:25:08,1.821s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:25:08,22-08-2024 17:25:09,0.955s,PASSED
+"selectOptionByValue(findTestObject(""hitungHarga/jangkaWaktu""), tahun, false)",Chrome 127.0.0.0,,,22-08-2024 17:25:09,22-08-2024 17:25:11,1.171s,PASSED
+"value = getAttribute(findTestObject(""hitungHarga/selectJangkaWaktu""), ""tahun"")",Chrome 127.0.0.0,,,22-08-2024 17:25:11,22-08-2024 17:25:11,0.439s,PASSED
+bulanInt = Integer.valueOf(tahun),Chrome 127.0.0.0,,,22-08-2024 17:25:11,22-08-2024 17:25:11,0.002s,PASSED
+pengeluaranInt = Integer.valueOf(pengeluaran),Chrome 127.0.0.0,,,22-08-2024 17:25:11,22-08-2024 17:25:11,0.001s,PASSED
+penghasilanInt = Integer.valueOf(penghasilan),Chrome 127.0.0.0,,,22-08-2024 17:25:11,22-08-2024 17:25:11,0.001s,PASSED
+if (penghasilanInt <= pengeluaranInt),Chrome 127.0.0.0,,,22-08-2024 17:25:11,22-08-2024 17:25:11,0.003s,PASSED
+else,Chrome 127.0.0.0,,,22-08-2024 17:25:11,22-08-2024 17:25:11,0.007s,PASSED
+println(hitung),Chrome 127.0.0.0,,,22-08-2024 17:25:11,22-08-2024 17:25:11,0.003s,PASSED
+"scrollToElement(findTestObject(""hitungHarga/pengeluaran""), 0)",Chrome 127.0.0.0,,,22-08-2024 17:25:11,22-08-2024 17:25:11,0.322s,PASSED
+"verifyElementClickable(findTestObject(""hitungHarga/buttonHitung""))",Chrome 127.0.0.0,,,22-08-2024 17:25:11,22-08-2024 17:25:12,0.299s,PASSED
+"click(findTestObject(""hitungHarga/buttonHitung""))",Chrome 127.0.0.0,,,22-08-2024 17:25:12,22-08-2024 17:25:12,0.395s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:25:12,22-08-2024 17:25:13,0.938s,PASSED
+"harga = getText(findTestObject(""hitungHarga/harga""))",Chrome 127.0.0.0,,,22-08-2024 17:25:13,22-08-2024 17:25:14,0.752s,PASSED
+"harga = replace(""Rp "", """").replace(""."", """")",Chrome 127.0.0.0,,,22-08-2024 17:25:14,22-08-2024 17:25:14,0.000s,PASSED
+hargaInt = Integer.valueOf(harga),Chrome 127.0.0.0,,,22-08-2024 17:25:14,22-08-2024 17:25:14,0.000s,PASSED
+println(hargaInt),Chrome 127.0.0.0,,,22-08-2024 17:25:14,22-08-2024 17:25:14,0.001s,PASSED
+assert hitung == hargaInt,Chrome 127.0.0.0,,,22-08-2024 17:25:14,22-08-2024 17:25:14,0.001s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,22-08-2024 17:25:14,22-08-2024 17:25:14,0.326s,PASSED
+,,,,,,,
+Test Cases/hitungProperti,Chrome 127.0.0.0,,,22-08-2024 17:25:14,22-08-2024 17:25:50,35.521s,FAILED
+"openBrowser(""https://www.btnproperti.co.id/tools/hitung-harga-properti"")",Chrome 127.0.0.0,,,22-08-2024 17:25:14,22-08-2024 17:25:18,4.181s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,22-08-2024 17:25:18,22-08-2024 17:25:18,0.141s,PASSED
+"setText(findTestObject(""hitungHarga/penghasilanTotal""), penghasilan)",Chrome 127.0.0.0,,,22-08-2024 17:25:18,22-08-2024 17:25:41,22.376s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:25:41,22-08-2024 17:25:42,1.309s,PASSED
+"setText(findTestObject(""hitungHarga/pengeluaran""), pengeluaran)",Chrome 127.0.0.0,,,22-08-2024 17:25:42,22-08-2024 17:25:46,4.101s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:25:46,22-08-2024 17:25:47,0.869s,PASSED
+"selectOptionByValue(findTestObject(""hitungHarga/jangkaWaktu""), tahun, false)",Chrome 127.0.0.0,,,22-08-2024 17:25:47,22-08-2024 17:25:48,0.824s,PASSED
+"value = getAttribute(findTestObject(""hitungHarga/selectJangkaWaktu""), ""tahun"")",Chrome 127.0.0.0,,,22-08-2024 17:25:48,22-08-2024 17:25:48,0.312s,PASSED
+bulanInt = Integer.valueOf(tahun),Chrome 127.0.0.0,,,22-08-2024 17:25:48,22-08-2024 17:25:48,0.002s,PASSED
+pengeluaranInt = Integer.valueOf(pengeluaran),Chrome 127.0.0.0,,,22-08-2024 17:25:48,22-08-2024 17:25:48,0.000s,PASSED
+penghasilanInt = Integer.valueOf(penghasilan),Chrome 127.0.0.0,,,22-08-2024 17:25:48,22-08-2024 17:25:48,0.001s,PASSED
+if (penghasilanInt <= pengeluaranInt),Chrome 127.0.0.0,,,22-08-2024 17:25:48,22-08-2024 17:25:48,0.315s,PASSED
+println(hitung),Chrome 127.0.0.0,,,22-08-2024 17:25:48,22-08-2024 17:25:48,0.001s,PASSED
+"scrollToElement(findTestObject(""hitungHarga/pengeluaran""), 0)",Chrome 127.0.0.0,,,22-08-2024 17:25:48,22-08-2024 17:25:49,0.337s,PASSED
+"verifyElementClickable(findTestObject(""hitungHarga/buttonHitung""))",Chrome 127.0.0.0,,,22-08-2024 17:25:49,22-08-2024 17:25:50,0.709s,FAILED
+,,,,,,,
+Test Cases/hitungProperti,Chrome 127.0.0.0,,,22-08-2024 17:25:50,22-08-2024 17:26:26,36.410s,PASSED
+"openBrowser(""https://www.btnproperti.co.id/tools/hitung-harga-properti"")",Chrome 127.0.0.0,,,22-08-2024 17:25:50,22-08-2024 17:25:54,4.747s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,22-08-2024 17:25:54,22-08-2024 17:25:54,0.109s,PASSED
+"setText(findTestObject(""hitungHarga/penghasilanTotal""), penghasilan)",Chrome 127.0.0.0,,,22-08-2024 17:25:54,22-08-2024 17:26:16,21.900s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:26:16,22-08-2024 17:26:18,1.239s,PASSED
+"setText(findTestObject(""hitungHarga/pengeluaran""), pengeluaran)",Chrome 127.0.0.0,,,22-08-2024 17:26:18,22-08-2024 17:26:21,2.996s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:26:21,22-08-2024 17:26:22,1.175s,PASSED
+"selectOptionByValue(findTestObject(""hitungHarga/jangkaWaktu""), tahun, false)",Chrome 127.0.0.0,,,22-08-2024 17:26:22,22-08-2024 17:26:23,0.845s,PASSED
+"value = getAttribute(findTestObject(""hitungHarga/selectJangkaWaktu""), ""tahun"")",Chrome 127.0.0.0,,,22-08-2024 17:26:23,22-08-2024 17:26:23,0.342s,PASSED
+bulanInt = Integer.valueOf(tahun),Chrome 127.0.0.0,,,22-08-2024 17:26:23,22-08-2024 17:26:23,0.001s,PASSED
+pengeluaranInt = Integer.valueOf(pengeluaran),Chrome 127.0.0.0,,,22-08-2024 17:26:23,22-08-2024 17:26:23,0.001s,PASSED
+penghasilanInt = Integer.valueOf(penghasilan),Chrome 127.0.0.0,,,22-08-2024 17:26:23,22-08-2024 17:26:23,0.000s,PASSED
+if (penghasilanInt <= pengeluaranInt),Chrome 127.0.0.0,,,22-08-2024 17:26:23,22-08-2024 17:26:23,0.001s,PASSED
+else,Chrome 127.0.0.0,,,22-08-2024 17:26:23,22-08-2024 17:26:23,0.002s,PASSED
+println(hitung),Chrome 127.0.0.0,,,22-08-2024 17:26:23,22-08-2024 17:26:23,0.001s,PASSED
+"scrollToElement(findTestObject(""hitungHarga/pengeluaran""), 0)",Chrome 127.0.0.0,,,22-08-2024 17:26:23,22-08-2024 17:26:23,0.301s,PASSED
+"verifyElementClickable(findTestObject(""hitungHarga/buttonHitung""))",Chrome 127.0.0.0,,,22-08-2024 17:26:23,22-08-2024 17:26:24,0.326s,PASSED
+"click(findTestObject(""hitungHarga/buttonHitung""))",Chrome 127.0.0.0,,,22-08-2024 17:26:24,22-08-2024 17:26:24,0.378s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:26:24,22-08-2024 17:26:25,0.941s,PASSED
+"harga = getText(findTestObject(""hitungHarga/harga""))",Chrome 127.0.0.0,,,22-08-2024 17:26:25,22-08-2024 17:26:26,0.745s,PASSED
+"harga = replace(""Rp "", """").replace(""."", """")",Chrome 127.0.0.0,,,22-08-2024 17:26:26,22-08-2024 17:26:26,0.001s,PASSED
+hargaInt = Integer.valueOf(harga),Chrome 127.0.0.0,,,22-08-2024 17:26:26,22-08-2024 17:26:26,0.001s,PASSED
+println(hargaInt),Chrome 127.0.0.0,,,22-08-2024 17:26:26,22-08-2024 17:26:26,0.001s,PASSED
+assert hitung == hargaInt,Chrome 127.0.0.0,,,22-08-2024 17:26:26,22-08-2024 17:26:26,0.001s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,22-08-2024 17:26:26,22-08-2024 17:26:26,0.304s,PASSED
+,,,,,,,
+Test Cases/hitungProperti,Chrome 127.0.0.0,,,22-08-2024 17:26:26,22-08-2024 17:27:03,36.693s,PASSED
+"openBrowser(""https://www.btnproperti.co.id/tools/hitung-harga-properti"")",Chrome 127.0.0.0,,,22-08-2024 17:26:26,22-08-2024 17:26:31,4.455s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,22-08-2024 17:26:31,22-08-2024 17:26:31,0.164s,PASSED
+"setText(findTestObject(""hitungHarga/penghasilanTotal""), penghasilan)",Chrome 127.0.0.0,,,22-08-2024 17:26:31,22-08-2024 17:26:53,22.120s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:26:53,22-08-2024 17:26:54,1.170s,PASSED
+"setText(findTestObject(""hitungHarga/pengeluaran""), pengeluaran)",Chrome 127.0.0.0,,,22-08-2024 17:26:54,22-08-2024 17:26:57,3.036s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:26:57,22-08-2024 17:26:58,1.188s,PASSED
+"selectOptionByValue(findTestObject(""hitungHarga/jangkaWaktu""), tahun, false)",Chrome 127.0.0.0,,,22-08-2024 17:26:58,22-08-2024 17:26:59,0.653s,PASSED
+"value = getAttribute(findTestObject(""hitungHarga/selectJangkaWaktu""), ""tahun"")",Chrome 127.0.0.0,,,22-08-2024 17:26:59,22-08-2024 17:26:59,0.281s,PASSED
+bulanInt = Integer.valueOf(tahun),Chrome 127.0.0.0,,,22-08-2024 17:26:59,22-08-2024 17:26:59,0.000s,PASSED
+pengeluaranInt = Integer.valueOf(pengeluaran),Chrome 127.0.0.0,,,22-08-2024 17:26:59,22-08-2024 17:26:59,0.000s,PASSED
+penghasilanInt = Integer.valueOf(penghasilan),Chrome 127.0.0.0,,,22-08-2024 17:26:59,22-08-2024 17:26:59,0.001s,PASSED
+if (penghasilanInt <= pengeluaranInt),Chrome 127.0.0.0,,,22-08-2024 17:26:59,22-08-2024 17:26:59,0.001s,PASSED
+else,Chrome 127.0.0.0,,,22-08-2024 17:26:59,22-08-2024 17:26:59,0.001s,PASSED
+println(hitung),Chrome 127.0.0.0,,,22-08-2024 17:26:59,22-08-2024 17:26:59,0.000s,PASSED
+"scrollToElement(findTestObject(""hitungHarga/pengeluaran""), 0)",Chrome 127.0.0.0,,,22-08-2024 17:26:59,22-08-2024 17:26:59,0.297s,PASSED
+"verifyElementClickable(findTestObject(""hitungHarga/buttonHitung""))",Chrome 127.0.0.0,,,22-08-2024 17:26:59,22-08-2024 17:27:00,0.311s,PASSED
+"click(findTestObject(""hitungHarga/buttonHitung""))",Chrome 127.0.0.0,,,22-08-2024 17:27:00,22-08-2024 17:27:00,0.504s,PASSED
+takeFullPageScreenshot(),Chrome 127.0.0.0,,,22-08-2024 17:27:00,22-08-2024 17:27:01,0.937s,PASSED
+"harga = getText(findTestObject(""hitungHarga/harga""))",Chrome 127.0.0.0,,,22-08-2024 17:27:01,22-08-2024 17:27:02,1.238s,PASSED
+"harga = replace(""Rp "", """").replace(""."", """")",Chrome 127.0.0.0,,,22-08-2024 17:27:02,22-08-2024 17:27:02,0.002s,PASSED
+hargaInt = Integer.valueOf(harga),Chrome 127.0.0.0,,,22-08-2024 17:27:02,22-08-2024 17:27:02,0.000s,PASSED
+println(hargaInt),Chrome 127.0.0.0,,,22-08-2024 17:27:02,22-08-2024 17:27:02,0.001s,PASSED
+assert hitung == hargaInt,Chrome 127.0.0.0,,,22-08-2024 17:27:02,22-08-2024 17:27:02,0.001s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,22-08-2024 17:27:02,22-08-2024 17:27:03,0.301s,PASSED
